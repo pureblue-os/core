@@ -1,5 +1,7 @@
 # Pureblue OS: OSTree Without SystemD
 
+(btw this file is ai generated, i dont have time to write it by hand, or work on this atm. this project will need more care than the existing fedora based image. but we should have something working and useable before 2027)
+
 ## Vision
 
 Build a lightweight, immutable Linux distribution using OSTree as the update
