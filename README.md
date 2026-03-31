@@ -71,4 +71,4 @@ _Coming soon_
 
 ## License
 
-GPL-2.0 - See [LICENSE](LICENSE) for details
+GPL-2.1 - See [LICENSE](LICENSE) for details
